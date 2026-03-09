@@ -1,0 +1,4 @@
+
+settings.py - 
+secret_key(use for deployment in the server)
+DEBUG(it give me information)
